@@ -5,7 +5,7 @@ document.getElementById('answer-form').addEventListener('submit', function(event
   const answer = answerInput.value.trim().toLowerCase();
 
   if (answer === 'i love you') {
-    document.getElementById('result').textContent = 'You know what I love you too ';
+    document.getElementById('result').textContent = 'You know what? I love you too!';
     document.getElementById('result').classList.remove('hidden');
     answerInput.disabled = true;
   } else {
