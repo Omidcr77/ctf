@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #081b29;
+  color: #ededed;
+}
+
+.navbar a {
+  font-size: 18px;
+    color: #ededed;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 35px;
+    transition: .3s;
+}
+
+.navbar a:hover {
+
+}
+
+h1 {
+  text-align: center;
+}
+
+#question {
+  margin: 20px;
+}
+
+form {
+  border: 2px solid black;
+  margin-top: 10px;
+  padding: 100px;
+  align-items: center;
+  justify-content: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#result {
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: rgb(201, 0, 0);
+  background-color: aqua;
+}
+
+.Decrypt {
+  color: red;
+  
+}
+
+.footer {
+  text-align: center;
+  align-items: center;
+}
