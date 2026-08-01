@@ -13,6 +13,14 @@ h1 {
   margin: 20px;
 }
 
+#writeups {
+  margin: 20px;
+}
+
+#writeups a {
+  color: #00ffff;
+}
+
 form {
   border: 2px solid #fff;
   margin-top: 10px;
